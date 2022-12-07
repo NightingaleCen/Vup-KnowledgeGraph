@@ -478,12 +478,3 @@ def clean_data(string, split=False):
     else:
         return string
 
-
-if __name__ == "__main__":
-    test = VupGroup(
-        "完美世界",
-        None
-    )
-    asyncio.run(test.get_info())
-    asyncio.run(test.get_vups("https://zh.moegirl.org.cn/Template:%E5%AE%8C%E7%BE%8E%E4%B8%96%E7%95%8C"))
-    pass

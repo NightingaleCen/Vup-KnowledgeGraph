@@ -1,0 +1,16 @@
+萌娘主页 moe_link
+萌娘链接 moe_link
+简介 bio
+介绍 bio
+图片 picture
+别名 nickname
+发色 hair_color
+瞳色 iris_color
+粉丝数量 followers
+性别 gender
+b站链接 bilibili_link
+b站主页 bilibili_link
+链接 link
+标题 title
+播放量 views
+观看量 views
